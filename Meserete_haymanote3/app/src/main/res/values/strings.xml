@@ -1,0 +1,390 @@
+<resources>
+
+    <string name="app_name" translatable="false">Meserete Haymanote</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="title_activity_main" translatable="false">main</string>
+    <string name="course" translatable="false">Course</string>
+    <string name="exam" translatable="false">Exam</string>
+    <string name="about_up" translatable="false">About up</string>
+    <!--thise is medebegne title-->
+    <string name="Serate_betekerestian">Serate Betekerestian</string>
+    <string name="YmeshafeKeduse_tenate" translatable="false">Ymeshafe Keduse_tenate</string>
+    <string name="Ybetekerstian_tarike" translatable="false">Ybetekerstian Tarike</string>
+    <string name="Sene_Fetret">Sene Fetret</string>
+    <string name="Tmherete_Haymanote" translatable="false">Tmherete Haymanote</string>
+    ..
+    <!--thise is medebegna description-->
+    <string name="Serate_betekerestian_desc">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="YmeshafeKeduse_tenate_desc" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Ybetekerstian_tarike_desc" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Sene_Fetret_desc">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Tmherete_Haymanote_desc" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+
+    <!--thise is medebegne tmheret exam title-->
+    <string name="Serate_betekerestian_ex">Serate Betekerestian Exam</string>
+    <string name="YmeshafeKeduse_tenate_ex" translatable="false">Ymeshafe Keduse_tenate Exam</string>
+    <string name="Ybetekerstian_tarike_ex" translatable="false">Ybetekerstian Tarike Exam</string>
+    <string name="Sene_Fetret_ex">Sene Fetre tExam</string>
+    <string name="Tmherete_Haymanote_ex" translatable="false">Tmherete Haymanote Exam </string>
+    <!--thise is medebegna exam detail-->
+
+    <string name="Serate_betekerestian_desc_ex">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="YmeshafeKeduse_tenate_desc_ex" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Ybetekerstian_tarike_desc_ex" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Sene_Fetret_desc_ex">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Tmherete_Haymanote_desc_ex" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+
+
+    <!--thise is yeabnete title-->
+    <string name="tselote_zewter" translatable="false">Tselote Zewter</string>
+    <string name="yesegno_wudase" translatable="false">Wudase Mariam Z Senui</string>
+    <string name="Yemaksegno_wudase" translatable="false">Wudase Mariam Z Seluse</string>
+    <string name="Yerobe_wudase" translatable="false">Wudase Mariam Z rebue</string>
+    <string name="yehamuse_wudase" translatable="false">Wudase Mariam Z Hamuse</string>
+    <string name="yearbe_wudase" translatable="false">Wudase Mariam Z arbe</string>
+    <string name="Yekedame_wudase" translatable="false">Wudase Mariam Z kedamite</string>
+    <string name="Yeehude_wudase" translatable="false">Wudase Mariam Z ehude</string>
+    <string name="Melka_mariam">Melka Mariam</string>
+    <string name="Melka_Eyesus">Melka Eyesus</string>
+    <string name="Melka_Edome">Melka Edome</string>
+    <string name="developer" translatable="false">Developer</string>
+    ...
+    <!--this is yeabnete description-->
+    <string name="tselote_zewter_desc" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="yesegno_wudase_desc" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Yemaksegno_wudase_desc" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Yerobe_wudase_desc" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="yehamuse_wudase_desc" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="yearbe_wudase_desc" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Yekedame_wudase_desc" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Yeehude_wudase_desc" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Melka_mariam_desc">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Melka_Eyesus_desc">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Melka_Edome_desc">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="developer_desc" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+
+    <!--thise is yeabnete tmheret exam title-->
+    <string name="tselote_zewter_ex" translatable="false">Tselote Zewter Exam</string>
+    <string name="yesegno_wudase_ex" translatable="false">Wudase Mariam Z Senui Exam</string>
+    <string name="Yemaksegno_wudase_ex" translatable="false">Wudase Mariam Z Seluse Exam</string>
+    <string name="Yerobe_wudase_ex" translatable="false">Wudase Mariam Z rebue Exam</string>
+    <string name="yehamuse_wudase_ex" translatable="false">Wudase Mariam Z Hamuse Exam</string>
+    <string name="yearbe_wudase_ex" translatable="false">Wudase Mariam Z arbe Exam</string>
+    <string name="Yekedame_wudase_ex" translatable="false">Wudase Mariam Z kedamite Exam</string>
+    <string name="Yeehude_wudase_ex" translatable="false">Wudase Mariam Z ehude Exam</string>
+    <string name="Melka_mariam_ex">Melka Mariam</string>
+    <string name="Melka_Eyesus_ex">Melka Eyesus</string>
+    <string name="Melka_Edome_ex">Melka Edome</string>
+
+    <!--this is yeabnete tmheret exam description-->
+    <string name="tselote_zewter_desc_ex" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="yesegno_wudase_desc_ex" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Yemaksegno_wudase_desc_ex" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Yerobe_wudase_desc_ex" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="yehamuse_wudase_desc_ex" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="yearbe_wudase_desc_ex" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Yekedame_wudase_desc_ex" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Yeehude_wudase_desc_ex" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Melka_mariam_desc_ex">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Melka_Eyesus_desc_ex">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="Melka_Edome_desc_ex">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+    <string name="developer_desc_ex" translatable="false">tmherete haymanote is the basic course of medebegna tmherete and it have serious and basic steps</string>
+
+
+    <!--thise is book of medebegna tmheret-->
+    <string name="tmherete_haymanote_pdf">  ክፍል አንድ
+
+ምዕራፍ አንድ ማን ነበርኩ?
+
+ ናህድ  ማሕሙድ ሙትዋሊ እባላለሁ። ሴቶችን ብቻ የሚያስተምረው የሄልሜት ኤል ዘይቱን ትምህርት ቤት ዲን ነበርኩ።
+
+ በካይሮ የታወቀ እና ትልቁ ትምህርት ቤት ነው። 4000 ልጃገረዶችን ያስተምራል። ከተማሪዎቹ ብዛት የተነሣ ት/ቤቱ የሚያስተምረው በጥዋት እና በከሰዓት ፈረቃ ነበር።
+
+የት/ቤቱ ዲን እንደመሆኔ መጠን ሁለቱንም ፈረቃዎች መከታተል ነበረብኝ። ምንም እንኳን ከሁሉም ዲኖች በዕድሜ ታናሿ እና በቅርብ ከኮሌጅ የተመረቅኩ ብሆንም ይህንን ወንበር እንዳገኝ ግን ሁለት ነገሮች ረድተውኛል።
+
+   እግዚአብሔር ብስለትን፣ በራስ መተማመንን፣ እንዲሁም ኃላፊ ነቴን በሚገባ የመወጣት ችሎታን አድሎኝ ነበር። የማንም ርዳታ ሳያስፈልገኝ የሚሰጠኝን ሥራ ሁሉ በአፋጣኝ የማከናወን ልምድ አለኝ።
+
+ሰወች አንድን ነገር ሲሠሩ መመልከት ብቻ ለእኔ በቂዬ ነበር። ያንኑ ነገር ወዲያውኑ ልምድ እንዳለው ሰው አድርጌ ማከናወን እችላለሁ።
+
+    በዚህ ችሎታዬ የተነሣ ይህንን ቦታ ያገኘሁት ቦታውን ላገኘው ከሚገባኝ ዐሥር ዓመታት ቀድም ነበር ከዚህ ችሎታዬ ጋር ተጨምሮ በት/ቤቱ የነበሩትን የሁለቱን ረዳት ዳይሬክተሮች ተግባር የማወቅ ዕድልም ገጥሞኛል። የተማሪዎችን ሰሞች በምሥጢራዊ ኮድ ካገኘኋቸው ዋና ዋና ልምዶች መካከል የሚጠቀሱት ናቸው።
+
+እንዚህ ሁለቱ ተግባራት ደግሞ በት/ቤታችን ውስጥ ዋነኞቹ ሥራዎች ናቸው። ምክንያቱም ሁለቱም ፍጹም የሆነ ምሥጢር ጠባቂነትን የሚጠይቁ ናቸውና።
+
+  አንደኛው ረዳት ዳይሬክተር በ60 ዓመቱ ጡረታ ወጣ፣ ሌላው ደግሞ ወደ ሌላ የዓረብ ሀገር ለሥራ ሄደ።
+
+ይህንን አጋጣሚ በመጠቀምም እነዚህን ሁለቱን ኃላፊነቶች ጠቀለልኳቸው። ይህም የት/ቤቱን ቁሌፍ ቁልፍ አስተዳደራዊ ኃላፈነቶች እንድቆጣጠር ዕድል ከፈተልኝ።
+
+  እነዚህን ኃላፊነቶች ከጠቀለልኩ በኃላ ልክ የት/ቤቱ ንግሥት የሆንኩ ያህል ይሰማኝ ነበር።
+
+በእነዚህ ነገሮች ሙሉ ሥልጣን እና
+Dr.B:
+ፍጹም የሆነ ኃላፈነት ነበርኝ። ሌላው ቀርቶ የእኔ የበላይ የሆነችው የት/ቤቱ ዳይሬክተር እንኳን በጣም ትቅርበኝ፣ የምትሠራውንም ነገር ሁሉ ታማክረኝ ነበር። የሚፈራ፣ ኃይለኛ፣ አድራጊ ፈጣሪ ሆንኩ።
+
+   ለመኞቴ ወሰን አልነበረውም። ለዝቅተኛ ተማሪዎች የሚሰጠውን የትምህርት እገዛ እኔ ራሴ እንድከታለው ኃላፈነቱ እንዲሰጠኝ አስተዳደሩን ጠይቄ ተፈቀደልኝ። በዚህ የተነሣም በየወሩ ከእነዚህ ክፍሎች ለሚሰበሰበው ከ12ሺ-15ሺ ለሚጠጋው ገንዘብ ኃላፊ ሆንኩ። ለዚህ ኃላፊነቴ እንዲሁም ፈተና ለማዘጋጀት እና ለማባዛት ተግባሬ የሚከፈለኝ ገንዘብ ወራኃዊ ገቢዬን በሦስት እጥፍ አሳደገው።
+
+ ወደዚህ የሥልጣን እርከን ያሸጋገረኝ ሌላው ነገር ደግሞ የቤተ ሰቦቼ ታዋቂነት እና በመንግሥታዊ ቦታዎች ያላቸው ሥልጣን ነቀር።
+
+ ወንድሜ በማዕከላዊው የአስተዳደር እና የአመራር ሥርዓት ቢሮ ውስጥ ሥራ እስኪያጅ ነበር። አንደኛው ዋርሳዬ ደግሞ የማዘጋጃ ቤቱ ጸሐፊ እና የት/ቤቱ የወላጆች እና መምህራን ማኅበር ፕሬዚዳንት ነው።
+
+
+የእርሱ ሁለቱ ሴቶች ልጆቹም የት/ቤቱ ተማሪዎች ነበሩ።
+
+ሌላው ዋርሳዬ ደግሞ የቤተ መንግሥቱ ፓይለት ነው። እኅቴ የሄልዮፓሊስ አካባቢ የት/ቤቶች አስተዳደር የሕዝብ ግንኙነት ሥራ አስኪያጅ ናት።
+
+ ባልዋም በማዕከላዊው  የመረጃ አገልግሎት ሹም ነበር።  እንዚህ ሁሉ ከእኔ ሰብእና እና በት/ቤቱ ከተፈጠረው ክፍተት ጋር ተደማምረው ከሥልጣን ወደ ሥልጣን አሸጋገሩኝ።
+
+  ይህ ሁሉ በሀብት እና በሥልጣን ይጠቀመኝ እንጂ  ወስጤን  ግን ትዕቢተኛ ፣ ዕብሪተኛ እና ግብዝ አድርጎኛል።
+
+   በሌላ በኩል ልቡናዬን ለሚያይ ደግሞ የተለየሁ ፍጥረት ነበርኩ። አምላኬን እወደዋለሁ የምል ቆዳ ስሱ  ሰው ነኝ። አዎን ጌታዬ ሆይ ምንም እንኳን ከአንተ ርቄ ብኖርም በፍጹም ልቤ እወድድህ እና እፈራህ ነበርኮ።
+
+እግዚአብሔርን ስፈልገው ኖሬያለሁ፣ እነዚያ የሕይወቴ የተበላሹ ገጽታዎች ግን እርሱን እንዳላገኝው የመከለያ ግንብውቅም ነበር። አብዝቼ እጸልያለሁ፣ ቁርዐንንም አዘውትሬ አነባለሁ ፣ ይሁን እንጂ በውስጤ አንዳች የጎደለ ነገር መኖሩ ይሰማኝ ነበር።
+
+ክርስቲያኖች እኔ የምወደውን አምላክ አይወዱትም ብየ ስለማስብ አብዝቼ እጣላቸው ነበር።
+
+እግዚአብሔርን እኔ በማመልክበት መንገድ ለምን አያመልኩትም? እነርሱ ከእግዚአብሔር የኮበለሉ ናቸው እያልኩ እጅግ እጠላቸው ነበር።
+
+   ክርስቲያኖችን ከመጥላቴ የተነሣ እነርሱን ለማዋድ፣ ለመጉዳት እና በእነርሱ  ላይ አንዳች ችግር ለመፍጠር ዘወትር እጥር ነበር።
+
+ይህንን የማደርገው ግን በውስጤ ለሰው ክፋት ስላለኝ ሳይሆን የምወደውን እና የማመልከውን አምላክ ለምን አያመልኩም፣ ለምንስ አይወዱም? ብየ ነበር። በርግጥ ሁልጊዜ የሚገርመኝና የሚያሳስበኝ አንድ ነገር አለ።
+
+እኔ ላገኘው የምጓጓለትን ውሳጣዊ ሰላም ክርስቲያኖች ገንዘብ አድርገውታል። እንዴት?
+
+ይቀጥላል
+</string>
+    <string name="sereate_betekerstian_pdf">  ክፍል አንድ
+
+ምዕራፍ አንድ ማን ነበርኩ?
+
+ ናህድ  ማሕሙድ ሙትዋሊ እባላለሁ። ሴቶችን ብቻ የሚያስተምረው የሄልሜት ኤል ዘይቱን ትምህርት ቤት ዲን ነበርኩ።
+
+ በካይሮ የታወቀ እና ትልቁ ትምህርት ቤት ነው። 4000 ልጃገረዶችን ያስተምራል። ከተማሪዎቹ ብዛት የተነሣ ት/ቤቱ የሚያስተምረው በጥዋት እና በከሰዓት ፈረቃ ነበር።
+
+የት/ቤቱ ዲን እንደመሆኔ መጠን ሁለቱንም ፈረቃዎች መከታተል ነበረብኝ። ምንም እንኳን ከሁሉም ዲኖች በዕድሜ ታናሿ እና በቅርብ ከኮሌጅ የተመረቅኩ ብሆንም ይህንን ወንበር እንዳገኝ ግን ሁለት ነገሮች ረድተውኛል።
+
+   እግዚአብሔር ብስለትን፣ በራስ መተማመንን፣ እንዲሁም ኃላፊ ነቴን በሚገባ የመወጣት ችሎታን አድሎኝ ነበር። የማንም ርዳታ ሳያስፈልገኝ የሚሰጠኝን ሥራ ሁሉ በአፋጣኝ የማከናወን ልምድ አለኝ።
+
+ሰወች አንድን ነገር ሲሠሩ መመልከት ብቻ ለእኔ በቂዬ ነበር። ያንኑ ነገር ወዲያውኑ ልምድ እንዳለው ሰው አድርጌ ማከናወን እችላለሁ።
+
+    በዚህ ችሎታዬ የተነሣ ይህንን ቦታ ያገኘሁት ቦታውን ላገኘው ከሚገባኝ ዐሥር ዓመታት ቀድም ነበር ከዚህ ችሎታዬ ጋር ተጨምሮ በት/ቤቱ የነበሩትን የሁለቱን ረዳት ዳይሬክተሮች ተግባር የማወቅ ዕድልም ገጥሞኛል። የተማሪዎችን ሰሞች በምሥጢራዊ ኮድ ካገኘኋቸው ዋና ዋና ልምዶች መካከል የሚጠቀሱት ናቸው።
+
+እንዚህ ሁለቱ ተግባራት ደግሞ በት/ቤታችን ውስጥ ዋነኞቹ ሥራዎች ናቸው። ምክንያቱም ሁለቱም ፍጹም የሆነ ምሥጢር ጠባቂነትን የሚጠይቁ ናቸውና።
+
+  አንደኛው ረዳት ዳይሬክተር በ60 ዓመቱ ጡረታ ወጣ፣ ሌላው ደግሞ ወደ ሌላ የዓረብ ሀገር ለሥራ ሄደ።
+
+ይህንን አጋጣሚ በመጠቀምም እነዚህን ሁለቱን ኃላፊነቶች ጠቀለልኳቸው። ይህም የት/ቤቱን ቁሌፍ ቁልፍ አስተዳደራዊ ኃላፈነቶች እንድቆጣጠር ዕድል ከፈተልኝ።
+
+  እነዚህን ኃላፊነቶች ከጠቀለልኩ በኃላ ልክ የት/ቤቱ ንግሥት የሆንኩ ያህል ይሰማኝ ነበር።
+
+በእነዚህ ነገሮች ሙሉ ሥልጣን እና
+Dr.B:
+ፍጹም የሆነ ኃላፈነት ነበርኝ። ሌላው ቀርቶ የእኔ የበላይ የሆነችው የት/ቤቱ ዳይሬክተር እንኳን በጣም ትቅርበኝ፣ የምትሠራውንም ነገር ሁሉ ታማክረኝ ነበር። የሚፈራ፣ ኃይለኛ፣ አድራጊ ፈጣሪ ሆንኩ።
+
+   ለመኞቴ ወሰን አልነበረውም። ለዝቅተኛ ተማሪዎች የሚሰጠውን የትምህርት እገዛ እኔ ራሴ እንድከታለው ኃላፈነቱ እንዲሰጠኝ አስተዳደሩን ጠይቄ ተፈቀደልኝ። በዚህ የተነሣም በየወሩ ከእነዚህ ክፍሎች ለሚሰበሰበው ከ12ሺ-15ሺ ለሚጠጋው ገንዘብ ኃላፊ ሆንኩ። ለዚህ ኃላፊነቴ እንዲሁም ፈተና ለማዘጋጀት እና ለማባዛት ተግባሬ የሚከፈለኝ ገንዘብ ወራኃዊ ገቢዬን በሦስት እጥፍ አሳደገው።
+
+ ወደዚህ የሥልጣን እርከን ያሸጋገረኝ ሌላው ነገር ደግሞ የቤተ ሰቦቼ ታዋቂነት እና በመንግሥታዊ ቦታዎች ያላቸው ሥልጣን ነቀር።
+
+ ወንድሜ በማዕከላዊው የአስተዳደር እና የአመራር ሥርዓት ቢሮ ውስጥ ሥራ እስኪያጅ ነበር። አንደኛው ዋርሳዬ ደግሞ የማዘጋጃ ቤቱ ጸሐፊ እና የት/ቤቱ የወላጆች እና መምህራን ማኅበር ፕሬዚዳንት ነው።
+
+
+የእርሱ ሁለቱ ሴቶች ልጆቹም የት/ቤቱ ተማሪዎች ነበሩ።
+
+ሌላው ዋርሳዬ ደግሞ የቤተ መንግሥቱ ፓይለት ነው። እኅቴ የሄልዮፓሊስ አካባቢ የት/ቤቶች አስተዳደር የሕዝብ ግንኙነት ሥራ አስኪያጅ ናት።
+
+ ባልዋም በማዕከላዊው  የመረጃ አገልግሎት ሹም ነበር።  እንዚህ ሁሉ ከእኔ ሰብእና እና በት/ቤቱ ከተፈጠረው ክፍተት ጋር ተደማምረው ከሥልጣን ወደ ሥልጣን አሸጋገሩኝ።
+
+  ይህ ሁሉ በሀብት እና በሥልጣን ይጠቀመኝ እንጂ  ወስጤን  ግን ትዕቢተኛ ፣ ዕብሪተኛ እና ግብዝ አድርጎኛል።
+
+   በሌላ በኩል ልቡናዬን ለሚያይ ደግሞ የተለየሁ ፍጥረት ነበርኩ። አምላኬን እወደዋለሁ የምል ቆዳ ስሱ  ሰው ነኝ። አዎን ጌታዬ ሆይ ምንም እንኳን ከአንተ ርቄ ብኖርም በፍጹም ልቤ እወድድህ እና እፈራህ ነበርኮ።
+
+እግዚአብሔርን ስፈልገው ኖሬያለሁ፣ እነዚያ የሕይወቴ የተበላሹ ገጽታዎች ግን እርሱን እንዳላገኝው የመከለያ ግንብውቅም ነበር። አብዝቼ እጸልያለሁ፣ ቁርዐንንም አዘውትሬ አነባለሁ ፣ ይሁን እንጂ በውስጤ አንዳች የጎደለ ነገር መኖሩ ይሰማኝ ነበር።
+
+ክርስቲያኖች እኔ የምወደውን አምላክ አይወዱትም ብየ ስለማስብ አብዝቼ እጣላቸው ነበር።
+
+እግዚአብሔርን እኔ በማመልክበት መንገድ ለምን አያመልኩትም? እነርሱ ከእግዚአብሔር የኮበለሉ ናቸው እያልኩ እጅግ እጠላቸው ነበር።
+
+   ክርስቲያኖችን ከመጥላቴ የተነሣ እነርሱን ለማዋድ፣ ለመጉዳት እና በእነርሱ  ላይ አንዳች ችግር ለመፍጠር ዘወትር እጥር ነበር።
+
+ይህንን የማደርገው ግን በውስጤ ለሰው ክፋት ስላለኝ ሳይሆን የምወደውን እና የማመልከውን አምላክ ለምን አያመልኩም፣ ለምንስ አይወዱም? ብየ ነበር። በርግጥ ሁልጊዜ የሚገርመኝና የሚያሳስበኝ አንድ ነገር አለ።
+
+እኔ ላገኘው የምጓጓለትን ውሳጣዊ ሰላም ክርስቲያኖች ገንዘብ አድርገውታል። እንዴት?
+
+ይቀጥላል
+</string>
+    <string name="ymesehafe_keduse_tenate_pdf">  ክፍል አንድ
+
+ምዕራፍ አንድ ማን ነበርኩ?
+
+ ናህድ  ማሕሙድ ሙትዋሊ እባላለሁ። ሴቶችን ብቻ የሚያስተምረው የሄልሜት ኤል ዘይቱን ትምህርት ቤት ዲን ነበርኩ።
+
+ በካይሮ የታወቀ እና ትልቁ ትምህርት ቤት ነው። 4000 ልጃገረዶችን ያስተምራል። ከተማሪዎቹ ብዛት የተነሣ ት/ቤቱ የሚያስተምረው በጥዋት እና በከሰዓት ፈረቃ ነበር።
+
+የት/ቤቱ ዲን እንደመሆኔ መጠን ሁለቱንም ፈረቃዎች መከታተል ነበረብኝ። ምንም እንኳን ከሁሉም ዲኖች በዕድሜ ታናሿ እና በቅርብ ከኮሌጅ የተመረቅኩ ብሆንም ይህንን ወንበር እንዳገኝ ግን ሁለት ነገሮች ረድተውኛል።
+
+   እግዚአብሔር ብስለትን፣ በራስ መተማመንን፣ እንዲሁም ኃላፊ ነቴን በሚገባ የመወጣት ችሎታን አድሎኝ ነበር። የማንም ርዳታ ሳያስፈልገኝ የሚሰጠኝን ሥራ ሁሉ በአፋጣኝ የማከናወን ልምድ አለኝ።
+
+ሰወች አንድን ነገር ሲሠሩ መመልከት ብቻ ለእኔ በቂዬ ነበር። ያንኑ ነገር ወዲያውኑ ልምድ እንዳለው ሰው አድርጌ ማከናወን እችላለሁ።
+
+    በዚህ ችሎታዬ የተነሣ ይህንን ቦታ ያገኘሁት ቦታውን ላገኘው ከሚገባኝ ዐሥር ዓመታት ቀድም ነበር ከዚህ ችሎታዬ ጋር ተጨምሮ በት/ቤቱ የነበሩትን የሁለቱን ረዳት ዳይሬክተሮች ተግባር የማወቅ ዕድልም ገጥሞኛል። የተማሪዎችን ሰሞች በምሥጢራዊ ኮድ ካገኘኋቸው ዋና ዋና ልምዶች መካከል የሚጠቀሱት ናቸው።
+
+እንዚህ ሁለቱ ተግባራት ደግሞ በት/ቤታችን ውስጥ ዋነኞቹ ሥራዎች ናቸው። ምክንያቱም ሁለቱም ፍጹም የሆነ ምሥጢር ጠባቂነትን የሚጠይቁ ናቸውና።
+
+  አንደኛው ረዳት ዳይሬክተር በ60 ዓመቱ ጡረታ ወጣ፣ ሌላው ደግሞ ወደ ሌላ የዓረብ ሀገር ለሥራ ሄደ።
+
+ይህንን አጋጣሚ በመጠቀምም እነዚህን ሁለቱን ኃላፊነቶች ጠቀለልኳቸው። ይህም የት/ቤቱን ቁሌፍ ቁልፍ አስተዳደራዊ ኃላፈነቶች እንድቆጣጠር ዕድል ከፈተልኝ።
+
+  እነዚህን ኃላፊነቶች ከጠቀለልኩ በኃላ ልክ የት/ቤቱ ንግሥት የሆንኩ ያህል ይሰማኝ ነበር።
+
+በእነዚህ ነገሮች ሙሉ ሥልጣን እና
+Dr.B:
+ፍጹም የሆነ ኃላፈነት ነበርኝ። ሌላው ቀርቶ የእኔ የበላይ የሆነችው የት/ቤቱ ዳይሬክተር እንኳን በጣም ትቅርበኝ፣ የምትሠራውንም ነገር ሁሉ ታማክረኝ ነበር። የሚፈራ፣ ኃይለኛ፣ አድራጊ ፈጣሪ ሆንኩ።
+
+   ለመኞቴ ወሰን አልነበረውም። ለዝቅተኛ ተማሪዎች የሚሰጠውን የትምህርት እገዛ እኔ ራሴ እንድከታለው ኃላፈነቱ እንዲሰጠኝ አስተዳደሩን ጠይቄ ተፈቀደልኝ። በዚህ የተነሣም በየወሩ ከእነዚህ ክፍሎች ለሚሰበሰበው ከ12ሺ-15ሺ ለሚጠጋው ገንዘብ ኃላፊ ሆንኩ። ለዚህ ኃላፊነቴ እንዲሁም ፈተና ለማዘጋጀት እና ለማባዛት ተግባሬ የሚከፈለኝ ገንዘብ ወራኃዊ ገቢዬን በሦስት እጥፍ አሳደገው።
+
+ ወደዚህ የሥልጣን እርከን ያሸጋገረኝ ሌላው ነገር ደግሞ የቤተ ሰቦቼ ታዋቂነት እና በመንግሥታዊ ቦታዎች ያላቸው ሥልጣን ነቀር።
+
+ ወንድሜ በማዕከላዊው የአስተዳደር እና የአመራር ሥርዓት ቢሮ ውስጥ ሥራ እስኪያጅ ነበር። አንደኛው ዋርሳዬ ደግሞ የማዘጋጃ ቤቱ ጸሐፊ እና የት/ቤቱ የወላጆች እና መምህራን ማኅበር ፕሬዚዳንት ነው።
+
+
+የእርሱ ሁለቱ ሴቶች ልጆቹም የት/ቤቱ ተማሪዎች ነበሩ።
+
+ሌላው ዋርሳዬ ደግሞ የቤተ መንግሥቱ ፓይለት ነው። እኅቴ የሄልዮፓሊስ አካባቢ የት/ቤቶች አስተዳደር የሕዝብ ግንኙነት ሥራ አስኪያጅ ናት።
+
+ ባልዋም በማዕከላዊው  የመረጃ አገልግሎት ሹም ነበር።  እንዚህ ሁሉ ከእኔ ሰብእና እና በት/ቤቱ ከተፈጠረው ክፍተት ጋር ተደማምረው ከሥልጣን ወደ ሥልጣን አሸጋገሩኝ።
+
+  ይህ ሁሉ በሀብት እና በሥልጣን ይጠቀመኝ እንጂ  ወስጤን  ግን ትዕቢተኛ ፣ ዕብሪተኛ እና ግብዝ አድርጎኛል።
+
+   በሌላ በኩል ልቡናዬን ለሚያይ ደግሞ የተለየሁ ፍጥረት ነበርኩ። አምላኬን እወደዋለሁ የምል ቆዳ ስሱ  ሰው ነኝ። አዎን ጌታዬ ሆይ ምንም እንኳን ከአንተ ርቄ ብኖርም በፍጹም ልቤ እወድድህ እና እፈራህ ነበርኮ።
+
+እግዚአብሔርን ስፈልገው ኖሬያለሁ፣ እነዚያ የሕይወቴ የተበላሹ ገጽታዎች ግን እርሱን እንዳላገኝው የመከለያ ግንብውቅም ነበር። አብዝቼ እጸልያለሁ፣ ቁርዐንንም አዘውትሬ አነባለሁ ፣ ይሁን እንጂ በውስጤ አንዳች የጎደለ ነገር መኖሩ ይሰማኝ ነበር።
+
+ክርስቲያኖች እኔ የምወደውን አምላክ አይወዱትም ብየ ስለማስብ አብዝቼ እጣላቸው ነበር።
+
+እግዚአብሔርን እኔ በማመልክበት መንገድ ለምን አያመልኩትም? እነርሱ ከእግዚአብሔር የኮበለሉ ናቸው እያልኩ እጅግ እጠላቸው ነበር።
+
+   ክርስቲያኖችን ከመጥላቴ የተነሣ እነርሱን ለማዋድ፣ ለመጉዳት እና በእነርሱ  ላይ አንዳች ችግር ለመፍጠር ዘወትር እጥር ነበር።
+
+ይህንን የማደርገው ግን በውስጤ ለሰው ክፋት ስላለኝ ሳይሆን የምወደውን እና የማመልከውን አምላክ ለምን አያመልኩም፣ ለምንስ አይወዱም? ብየ ነበር። በርግጥ ሁልጊዜ የሚገርመኝና የሚያሳስበኝ አንድ ነገር አለ።
+
+እኔ ላገኘው የምጓጓለትን ውሳጣዊ ሰላም ክርስቲያኖች ገንዘብ አድርገውታል። እንዴት?
+
+ይቀጥላል
+</string>
+    <string name="yebetekerstian_tarike_pdf">  ክፍል አንድ
+
+ምዕራፍ አንድ ማን ነበርኩ?
+
+ ናህድ  ማሕሙድ ሙትዋሊ እባላለሁ። ሴቶችን ብቻ የሚያስተምረው የሄልሜት ኤል ዘይቱን ትምህርት ቤት ዲን ነበርኩ።
+
+ በካይሮ የታወቀ እና ትልቁ ትምህርት ቤት ነው። 4000 ልጃገረዶችን ያስተምራል። ከተማሪዎቹ ብዛት የተነሣ ት/ቤቱ የሚያስተምረው በጥዋት እና በከሰዓት ፈረቃ ነበር።
+
+የት/ቤቱ ዲን እንደመሆኔ መጠን ሁለቱንም ፈረቃዎች መከታተል ነበረብኝ። ምንም እንኳን ከሁሉም ዲኖች በዕድሜ ታናሿ እና በቅርብ ከኮሌጅ የተመረቅኩ ብሆንም ይህንን ወንበር እንዳገኝ ግን ሁለት ነገሮች ረድተውኛል።
+
+   እግዚአብሔር ብስለትን፣ በራስ መተማመንን፣ እንዲሁም ኃላፊ ነቴን በሚገባ የመወጣት ችሎታን አድሎኝ ነበር። የማንም ርዳታ ሳያስፈልገኝ የሚሰጠኝን ሥራ ሁሉ በአፋጣኝ የማከናወን ልምድ አለኝ።
+
+ሰወች አንድን ነገር ሲሠሩ መመልከት ብቻ ለእኔ በቂዬ ነበር። ያንኑ ነገር ወዲያውኑ ልምድ እንዳለው ሰው አድርጌ ማከናወን እችላለሁ።
+
+    በዚህ ችሎታዬ የተነሣ ይህንን ቦታ ያገኘሁት ቦታውን ላገኘው ከሚገባኝ ዐሥር ዓመታት ቀድም ነበር ከዚህ ችሎታዬ ጋር ተጨምሮ በት/ቤቱ የነበሩትን የሁለቱን ረዳት ዳይሬክተሮች ተግባር የማወቅ ዕድልም ገጥሞኛል። የተማሪዎችን ሰሞች በምሥጢራዊ ኮድ ካገኘኋቸው ዋና ዋና ልምዶች መካከል የሚጠቀሱት ናቸው።
+
+እንዚህ ሁለቱ ተግባራት ደግሞ በት/ቤታችን ውስጥ ዋነኞቹ ሥራዎች ናቸው። ምክንያቱም ሁለቱም ፍጹም የሆነ ምሥጢር ጠባቂነትን የሚጠይቁ ናቸውና።
+
+  አንደኛው ረዳት ዳይሬክተር በ60 ዓመቱ ጡረታ ወጣ፣ ሌላው ደግሞ ወደ ሌላ የዓረብ ሀገር ለሥራ ሄደ።
+
+ይህንን አጋጣሚ በመጠቀምም እነዚህን ሁለቱን ኃላፊነቶች ጠቀለልኳቸው። ይህም የት/ቤቱን ቁሌፍ ቁልፍ አስተዳደራዊ ኃላፈነቶች እንድቆጣጠር ዕድል ከፈተልኝ።
+
+  እነዚህን ኃላፊነቶች ከጠቀለልኩ በኃላ ልክ የት/ቤቱ ንግሥት የሆንኩ ያህል ይሰማኝ ነበር።
+
+በእነዚህ ነገሮች ሙሉ ሥልጣን እና
+Dr.B:
+ፍጹም የሆነ ኃላፈነት ነበርኝ። ሌላው ቀርቶ የእኔ የበላይ የሆነችው የት/ቤቱ ዳይሬክተር እንኳን በጣም ትቅርበኝ፣ የምትሠራውንም ነገር ሁሉ ታማክረኝ ነበር። የሚፈራ፣ ኃይለኛ፣ አድራጊ ፈጣሪ ሆንኩ።
+
+   ለመኞቴ ወሰን አልነበረውም። ለዝቅተኛ ተማሪዎች የሚሰጠውን የትምህርት እገዛ እኔ ራሴ እንድከታለው ኃላፈነቱ እንዲሰጠኝ አስተዳደሩን ጠይቄ ተፈቀደልኝ። በዚህ የተነሣም በየወሩ ከእነዚህ ክፍሎች ለሚሰበሰበው ከ12ሺ-15ሺ ለሚጠጋው ገንዘብ ኃላፊ ሆንኩ። ለዚህ ኃላፊነቴ እንዲሁም ፈተና ለማዘጋጀት እና ለማባዛት ተግባሬ የሚከፈለኝ ገንዘብ ወራኃዊ ገቢዬን በሦስት እጥፍ አሳደገው።
+
+ ወደዚህ የሥልጣን እርከን ያሸጋገረኝ ሌላው ነገር ደግሞ የቤተ ሰቦቼ ታዋቂነት እና በመንግሥታዊ ቦታዎች ያላቸው ሥልጣን ነቀር።
+
+ ወንድሜ በማዕከላዊው የአስተዳደር እና የአመራር ሥርዓት ቢሮ ውስጥ ሥራ እስኪያጅ ነበር። አንደኛው ዋርሳዬ ደግሞ የማዘጋጃ ቤቱ ጸሐፊ እና የት/ቤቱ የወላጆች እና መምህራን ማኅበር ፕሬዚዳንት ነው።
+
+
+የእርሱ ሁለቱ ሴቶች ልጆቹም የት/ቤቱ ተማሪዎች ነበሩ።
+
+ሌላው ዋርሳዬ ደግሞ የቤተ መንግሥቱ ፓይለት ነው። እኅቴ የሄልዮፓሊስ አካባቢ የት/ቤቶች አስተዳደር የሕዝብ ግንኙነት ሥራ አስኪያጅ ናት።
+
+ ባልዋም በማዕከላዊው  የመረጃ አገልግሎት ሹም ነበር።  እንዚህ ሁሉ ከእኔ ሰብእና እና በት/ቤቱ ከተፈጠረው ክፍተት ጋር ተደማምረው ከሥልጣን ወደ ሥልጣን አሸጋገሩኝ።
+
+  ይህ ሁሉ በሀብት እና በሥልጣን ይጠቀመኝ እንጂ  ወስጤን  ግን ትዕቢተኛ ፣ ዕብሪተኛ እና ግብዝ አድርጎኛል።
+
+   በሌላ በኩል ልቡናዬን ለሚያይ ደግሞ የተለየሁ ፍጥረት ነበርኩ። አምላኬን እወደዋለሁ የምል ቆዳ ስሱ  ሰው ነኝ። አዎን ጌታዬ ሆይ ምንም እንኳን ከአንተ ርቄ ብኖርም በፍጹም ልቤ እወድድህ እና እፈራህ ነበርኮ።
+
+እግዚአብሔርን ስፈልገው ኖሬያለሁ፣ እነዚያ የሕይወቴ የተበላሹ ገጽታዎች ግን እርሱን እንዳላገኝው የመከለያ ግንብውቅም ነበር። አብዝቼ እጸልያለሁ፣ ቁርዐንንም አዘውትሬ አነባለሁ ፣ ይሁን እንጂ በውስጤ አንዳች የጎደለ ነገር መኖሩ ይሰማኝ ነበር።
+
+ክርስቲያኖች እኔ የምወደውን አምላክ አይወዱትም ብየ ስለማስብ አብዝቼ እጣላቸው ነበር።
+
+እግዚአብሔርን እኔ በማመልክበት መንገድ ለምን አያመልኩትም? እነርሱ ከእግዚአብሔር የኮበለሉ ናቸው እያልኩ እጅግ እጠላቸው ነበር።
+
+   ክርስቲያኖችን ከመጥላቴ የተነሣ እነርሱን ለማዋድ፣ ለመጉዳት እና በእነርሱ  ላይ አንዳች ችግር ለመፍጠር ዘወትር እጥር ነበር።
+
+ይህንን የማደርገው ግን በውስጤ ለሰው ክፋት ስላለኝ ሳይሆን የምወደውን እና የማመልከውን አምላክ ለምን አያመልኩም፣ ለምንስ አይወዱም? ብየ ነበር። በርግጥ ሁልጊዜ የሚገርመኝና የሚያሳስበኝ አንድ ነገር አለ።
+
+እኔ ላገኘው የምጓጓለትን ውሳጣዊ ሰላም ክርስቲያኖች ገንዘብ አድርገውታል። እንዴት?
+
+ይቀጥላል
+</string>
+    <string name="sene_fetret_pdf">  ክፍል አንድ
+
+ምዕራፍ አንድ ማን ነበርኩ?
+
+ ናህድ  ማሕሙድ ሙትዋሊ እባላለሁ። ሴቶችን ብቻ የሚያስተምረው የሄልሜት ኤል ዘይቱን ትምህርት ቤት ዲን ነበርኩ።
+
+ በካይሮ የታወቀ እና ትልቁ ትምህርት ቤት ነው። 4000 ልጃገረዶችን ያስተምራል። ከተማሪዎቹ ብዛት የተነሣ ት/ቤቱ የሚያስተምረው በጥዋት እና በከሰዓት ፈረቃ ነበር።
+
+የት/ቤቱ ዲን እንደመሆኔ መጠን ሁለቱንም ፈረቃዎች መከታተል ነበረብኝ። ምንም እንኳን ከሁሉም ዲኖች በዕድሜ ታናሿ እና በቅርብ ከኮሌጅ የተመረቅኩ ብሆንም ይህንን ወንበር እንዳገኝ ግን ሁለት ነገሮች ረድተውኛል።
+
+   እግዚአብሔር ብስለትን፣ በራስ መተማመንን፣ እንዲሁም ኃላፊ ነቴን በሚገባ የመወጣት ችሎታን አድሎኝ ነበር። የማንም ርዳታ ሳያስፈልገኝ የሚሰጠኝን ሥራ ሁሉ በአፋጣኝ የማከናወን ልምድ አለኝ።
+
+ሰወች አንድን ነገር ሲሠሩ መመልከት ብቻ ለእኔ በቂዬ ነበር። ያንኑ ነገር ወዲያውኑ ልምድ እንዳለው ሰው አድርጌ ማከናወን እችላለሁ።
+
+    በዚህ ችሎታዬ የተነሣ ይህንን ቦታ ያገኘሁት ቦታውን ላገኘው ከሚገባኝ ዐሥር ዓመታት ቀድም ነበር ከዚህ ችሎታዬ ጋር ተጨምሮ በት/ቤቱ የነበሩትን የሁለቱን ረዳት ዳይሬክተሮች ተግባር የማወቅ ዕድልም ገጥሞኛል። የተማሪዎችን ሰሞች በምሥጢራዊ ኮድ ካገኘኋቸው ዋና ዋና ልምዶች መካከል የሚጠቀሱት ናቸው።
+
+እንዚህ ሁለቱ ተግባራት ደግሞ በት/ቤታችን ውስጥ ዋነኞቹ ሥራዎች ናቸው። ምክንያቱም ሁለቱም ፍጹም የሆነ ምሥጢር ጠባቂነትን የሚጠይቁ ናቸውና።
+
+  አንደኛው ረዳት ዳይሬክተር በ60 ዓመቱ ጡረታ ወጣ፣ ሌላው ደግሞ ወደ ሌላ የዓረብ ሀገር ለሥራ ሄደ።
+
+ይህንን አጋጣሚ በመጠቀምም እነዚህን ሁለቱን ኃላፊነቶች ጠቀለልኳቸው። ይህም የት/ቤቱን ቁሌፍ ቁልፍ አስተዳደራዊ ኃላፈነቶች እንድቆጣጠር ዕድል ከፈተልኝ።
+
+  እነዚህን ኃላፊነቶች ከጠቀለልኩ በኃላ ልክ የት/ቤቱ ንግሥት የሆንኩ ያህል ይሰማኝ ነበር።
+
+በእነዚህ ነገሮች ሙሉ ሥልጣን እና
+Dr.B:
+ፍጹም የሆነ ኃላፈነት ነበርኝ። ሌላው ቀርቶ የእኔ የበላይ የሆነችው የት/ቤቱ ዳይሬክተር እንኳን በጣም ትቅርበኝ፣ የምትሠራውንም ነገር ሁሉ ታማክረኝ ነበር። የሚፈራ፣ ኃይለኛ፣ አድራጊ ፈጣሪ ሆንኩ።
+
+   ለመኞቴ ወሰን አልነበረውም። ለዝቅተኛ ተማሪዎች የሚሰጠውን የትምህርት እገዛ እኔ ራሴ እንድከታለው ኃላፈነቱ እንዲሰጠኝ አስተዳደሩን ጠይቄ ተፈቀደልኝ። በዚህ የተነሣም በየወሩ ከእነዚህ ክፍሎች ለሚሰበሰበው ከ12ሺ-15ሺ ለሚጠጋው ገንዘብ ኃላፊ ሆንኩ። ለዚህ ኃላፊነቴ እንዲሁም ፈተና ለማዘጋጀት እና ለማባዛት ተግባሬ የሚከፈለኝ ገንዘብ ወራኃዊ ገቢዬን በሦስት እጥፍ አሳደገው።
+
+ ወደዚህ የሥልጣን እርከን ያሸጋገረኝ ሌላው ነገር ደግሞ የቤተ ሰቦቼ ታዋቂነት እና በመንግሥታዊ ቦታዎች ያላቸው ሥልጣን ነቀር።
+
+ ወንድሜ በማዕከላዊው የአስተዳደር እና የአመራር ሥርዓት ቢሮ ውስጥ ሥራ እስኪያጅ ነበር። አንደኛው ዋርሳዬ ደግሞ የማዘጋጃ ቤቱ ጸሐፊ እና የት/ቤቱ የወላጆች እና መምህራን ማኅበር ፕሬዚዳንት ነው።
+
+
+የእርሱ ሁለቱ ሴቶች ልጆቹም የት/ቤቱ ተማሪዎች ነበሩ።
+
+ሌላው ዋርሳዬ ደግሞ የቤተ መንግሥቱ ፓይለት ነው። እኅቴ የሄልዮፓሊስ አካባቢ የት/ቤቶች አስተዳደር የሕዝብ ግንኙነት ሥራ አስኪያጅ ናት።
+
+ ባልዋም በማዕከላዊው  የመረጃ አገልግሎት ሹም ነበር።  እንዚህ ሁሉ ከእኔ ሰብእና እና በት/ቤቱ ከተፈጠረው ክፍተት ጋር ተደማምረው ከሥልጣን ወደ ሥልጣን አሸጋገሩኝ።
+
+  ይህ ሁሉ በሀብት እና በሥልጣን ይጠቀመኝ እንጂ  ወስጤን  ግን ትዕቢተኛ ፣ ዕብሪተኛ እና ግብዝ አድርጎኛል።
+
+   በሌላ በኩል ልቡናዬን ለሚያይ ደግሞ የተለየሁ ፍጥረት ነበርኩ። አምላኬን እወደዋለሁ የምል ቆዳ ስሱ  ሰው ነኝ። አዎን ጌታዬ ሆይ ምንም እንኳን ከአንተ ርቄ ብኖርም በፍጹም ልቤ እወድድህ እና እፈራህ ነበርኮ።
+
+እግዚአብሔርን ስፈልገው ኖሬያለሁ፣ እነዚያ የሕይወቴ የተበላሹ ገጽታዎች ግን እርሱን እንዳላገኝው የመከለያ ግንብውቅም ነበር። አብዝቼ እጸልያለሁ፣ ቁርዐንንም አዘውትሬ አነባለሁ ፣ ይሁን እንጂ በውስጤ አንዳች የጎደለ ነገር መኖሩ ይሰማኝ ነበር።
+
+ክርስቲያኖች እኔ የምወደውን አምላክ አይወዱትም ብየ ስለማስብ አብዝቼ እጣላቸው ነበር።
+
+እግዚአብሔርን እኔ በማመልክበት መንገድ ለምን አያመልኩትም? እነርሱ ከእግዚአብሔር የኮበለሉ ናቸው እያልኩ እጅግ እጠላቸው ነበር።
+
+   ክርስቲያኖችን ከመጥላቴ የተነሣ እነርሱን ለማዋድ፣ ለመጉዳት እና በእነርሱ  ላይ አንዳች ችግር ለመፍጠር ዘወትር እጥር ነበር።
+
+ይህንን የማደርገው ግን በውስጤ ለሰው ክፋት ስላለኝ ሳይሆን የምወደውን እና የማመልከውን አምላክ ለምን አያመልኩም፣ ለምንስ አይወዱም? ብየ ነበር። በርግጥ ሁልጊዜ የሚገርመኝና የሚያሳስበኝ አንድ ነገር አለ።
+
+እኔ ላገኘው የምጓጓለትን ውሳጣዊ ሰላም ክርስቲያኖች ገንዘብ አድርገውታል። እንዴት?
+
+ይቀጥላል
+</string>
+</resources>
